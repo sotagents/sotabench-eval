@@ -1,0 +1,11 @@
+site_name: sotabencheval Docs
+theme:
+  name: 'material'
+  palette:
+    primary: 'cyan'
+    accent: 'cyan'
+  logo:
+    icon: 'explore'
+markdown_extensions:
+  - admonition
+  - codehilite
